@@ -34,7 +34,7 @@ Survival by Passenger Class
 Note: This project uses a modified Titanic Dataset in which only female passengers are marked as survivors.
 
 FILES:
-[Titanic_Analysis.ipynb](https://github.com/user-attachments/files/30034064/Titanic_Analysis.ipynb)  Python file used for cleaning and EDA
-[titanic_cleaned.csv](https://github.com/user-attachments/files/30034062/titanic_cleaned.csv) Cleaned CSV file
-[titanic.csv](https://github.com/user-attachments/files/30034057/titanic.csv) Original Data
+##[Titanic_Analysis.ipynb](https://github.com/user-attachments/files/30034064/Titanic_Analysis.ipynb)  Python file used for cleaning and EDA
+##[titanic_cleaned.csv](https://github.com/user-attachments/files/30034062/titanic_cleaned.csv) Cleaned CSV file
+##[titanic.csv](https://github.com/user-attachments/files/30034057/titanic.csv) Original Data
 
