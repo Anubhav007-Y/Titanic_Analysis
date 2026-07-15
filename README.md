@@ -28,6 +28,9 @@ Embarked slicer
 Age Distribution
 Survival by Gender
 Survival by Passenger Class
+
+Note: This dataset differs from the standard Kaggle Titanic dataset because it contains only female survivors.
+
 FILES:
 [Titanic_Analysis.ipynb](https://github.com/user-attachments/files/30034064/Titanic_Analysis.ipynb)  Python file used for cleaning and EDA
 [titanic_cleaned.csv](https://github.com/user-attachments/files/30034062/titanic_cleaned.csv) Cleaned CSV file
